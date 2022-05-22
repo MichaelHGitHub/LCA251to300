@@ -1731,7 +1731,7 @@ void CheckResults(TD_VI_VI testData, vector<int> result)
     PrintData(result);
     std::cout << endl;
 
-    if (testData.output == result)
+    if (AreVectorEqual(testData.output, result))
     {
         std::cout << "Succeeded!" << endl;
     }
