@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "287_Find_Duplicate_Number",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "289_Game_of_Life", "289_Game_of_Life\289_Game_of_Life.vcxproj", "{94600939-C54C-477C-B1FB-01954842F8DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "290_Word_Pattern", "290_Word_Pattern\290_Word_Pattern.vcxproj", "{B7A13163-C60B-4869-9D7B-459FD1B4B990}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{94600939-C54C-477C-B1FB-01954842F8DB}.Release|x64.Build.0 = Release|x64
 		{94600939-C54C-477C-B1FB-01954842F8DB}.Release|x86.ActiveCfg = Release|Win32
 		{94600939-C54C-477C-B1FB-01954842F8DB}.Release|x86.Build.0 = Release|Win32
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Debug|x64.ActiveCfg = Debug|x64
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Debug|x64.Build.0 = Debug|x64
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Debug|x86.Build.0 = Debug|Win32
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Release|x64.ActiveCfg = Release|x64
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Release|x64.Build.0 = Release|x64
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Release|x86.ActiveCfg = Release|Win32
+		{B7A13163-C60B-4869-9D7B-459FD1B4B990}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
