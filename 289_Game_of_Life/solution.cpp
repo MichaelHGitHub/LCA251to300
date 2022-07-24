@@ -1,5 +1,7 @@
 #include "header.h"
 
+// If a live cell dies, temporarily set it to 2
+// If a dead cell is reborn, temporarily set it to -1
 void gameOfLife(vector<vector<int>>& board)
 {
     for (int i = 0; i < board.size(); i++)
