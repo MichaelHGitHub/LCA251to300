@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "292_Nim_Game", "292_Nim_Gam
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "299_Bulls_and_Cows", "299_Bulls_and_Cows\299_Bulls_and_Cows.vcxproj", "{02BCB57B-9F1D-49BB-A78B-AA567E7FA8B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "300_Longest_Increasing_Sub", "300_Longest_Increasing_Sub\300_Longest_Increasing_Sub.vcxproj", "{65E326E6-9C24-42AD-9B10-722DC882E799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{02BCB57B-9F1D-49BB-A78B-AA567E7FA8B6}.Release|x64.Build.0 = Release|x64
 		{02BCB57B-9F1D-49BB-A78B-AA567E7FA8B6}.Release|x86.ActiveCfg = Release|Win32
 		{02BCB57B-9F1D-49BB-A78B-AA567E7FA8B6}.Release|x86.Build.0 = Release|Win32
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Debug|x64.ActiveCfg = Debug|x64
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Debug|x64.Build.0 = Debug|x64
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Debug|x86.ActiveCfg = Debug|Win32
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Debug|x86.Build.0 = Debug|Win32
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Release|x64.ActiveCfg = Release|x64
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Release|x64.Build.0 = Release|x64
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Release|x86.ActiveCfg = Release|Win32
+		{65E326E6-9C24-42AD-9B10-722DC882E799}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
